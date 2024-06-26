@@ -13,10 +13,11 @@ Utilizei o chatGPT para criação do conteúdo, usei prompts para poder gerar de
 ## 🚀 Resultados
 Amei o resultado do meu projeto, claro que tenho mito o que melhorar porém foi maravilhoso botar em prática.
 
+- [E-BOOK](https://github.com/Thaiss26/ebook-harry-potter/tree/main/ebook-harry%20potter)
+
 ## 💭 Reflexão (Opcional)
 Foi maravilhoso participar desse projeto , com certeza o conhecimento para mim foi o melhor.
 
-- [E-BOOK](https://github.com/Thaiss26/ebook-harry-potter/tree/main/ebook-harry%20potter)
 
 ## Links Interessantes
 
